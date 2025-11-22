@@ -19,7 +19,7 @@ https://easy-firebase.vercel.app/
 I created two sample users in this file.
 Each users can deal with their own pallets.
 
-frenkie@gmail.com 12345678
+frenkie1@gmail.com 12345678
 
 frenkie2@gmail.com 12345678
 
@@ -52,7 +52,7 @@ how to configure your firebase, how to install the dependency and
 how to run this project.
 
 ### Overall Components Schematic.jpg
-
+### App Structure.png
 I draw a picture to explain the architecture of this code.
 
 ### Project Architecture.pdf
